@@ -1,0 +1,8 @@
+# Files
+.DS_Store
+
+# Folders
+__pycache__/
+gym/
+trajectories/
+learned_policies/
