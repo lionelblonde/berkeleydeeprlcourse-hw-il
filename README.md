@@ -6,7 +6,8 @@ This first homework is on **imitation learning**.
 The objective is to implement, on top of the tools initially provided in the repository, 
 the Behavioral Cloning algorithm.
 
-Here are the indications given in the original repository (`berkeleycourse/homework/hw1`):
+Instructions and indications are provided in the 
+[original repository](https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1).
 
 Dependencies: TensorFlow, MuJoCo version 1.31, OpenAI Gym
 
